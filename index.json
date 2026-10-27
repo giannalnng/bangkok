@@ -1,0 +1,1174 @@
+[
+  {
+    "day": 1,
+    "file": "content/day-01.txt",
+    "source_name": "# 🇹🇭 DAY 01 — Bangkok, Here We Co.txt",
+    "lines": 1007,
+    "characters": 37935,
+    "sha256": "9b651276ad91b911dc8fcdc3685c252c87783fff22cf78575e16bf70dacdc499",
+    "headings": [
+      {
+        "line": 1,
+        "title": "🇹🇭 DAY 01 — Bangkok, Here We Come!"
+      },
+      {
+        "line": 21,
+        "title": "✅ 1. Những việc phải hoàn tất trước khi bay"
+      },
+      {
+        "line": 73,
+        "title": "🕒 2. Lịch trình DAY 01 — từng khung giờ"
+      },
+      {
+        "line": 94,
+        "title": "🗺️ 3. Bản đồ các điểm cần lưu"
+      },
+      {
+        "line": 116,
+        "title": "✈️ 06:15–10:45 | Tân Sơn Nhất → Suvarnabhumi"
+      },
+      {
+        "line": 136,
+        "title": "🛬 10:45–12:15 | Nhập cảnh và lấy hành lý"
+      },
+      {
+        "line": 150,
+        "title": "💚 12:15–12:45 | Đổi baht tại tầng B"
+      },
+      {
+        "line": 185,
+        "title": "🚆 12:45–13:20 | Đi Airport Rail Link"
+      },
+      {
+        "line": 191,
+        "title": "45 ฿/người"
+      },
+      {
+        "line": 195,
+        "title": "90 ฿"
+      },
+      {
+        "line": 217,
+        "title": "🏨 13:20–14:00 | Phaya Thai → College Haus"
+      },
+      {
+        "line": 251,
+        "title": "🎃 4. Buổi chiều tại centralwOrld"
+      },
+      {
+        "line": 255,
+        "title": "🚉 15:30–16:15 | College Haus → centralwOrld"
+      },
+      {
+        "line": 267,
+        "title": "👻 16:15–17:30 | Halloween Spooky Boo & Friends"
+      },
+      {
+        "line": 289,
+        "title": "🧸 17:30–18:00 | SEEK ’N KEEP CLUB — tùy chọn"
+      },
+      {
+        "line": 305,
+        "title": "🍜 18:00–19:00 | Ăn tối tại ThongSmith"
+      },
+      {
+        "line": 340,
+        "title": "🛒 19:00–20:00 | Big C Ratchadamri"
+      },
+      {
+        "line": 378,
+        "title": "🌙 5. Trở về College Haus"
+      },
+      {
+        "line": 386,
+        "title": "💰 6. Ngân sách DAY 01 — hai người"
+      },
+      {
+        "line": 402,
+        "title": "1.200–2.400 ฿"
+      },
+      {
+        "line": 406,
+        "title": "🎒 7. Túi nhỏ mang theo trong DAY 01"
+      },
+      {
+        "line": 446,
+        "title": "🤍 8. Checklist cuối ngày — chuẩn bị cho DAY 02"
+      },
+      {
+        "line": 467,
+        "title": "1. Tải bản đồ Bangkok về iPhone"
+      },
+      {
+        "line": 490,
+        "title": "Nên tải khu vực nào?"
+      },
+      {
+        "line": 514,
+        "title": "2. Lưu 7 địa điểm quan trọng của DAY 01"
+      },
+      {
+        "line": 530,
+        "title": "Tạo một danh sách riêng"
+      },
+      {
+        "line": 546,
+        "title": "3. Chụp màn hình 5 thông tin quan trọng nhất"
+      },
+      {
+        "line": 572,
+        "title": "Chỉ dẫn tàu điện nên có trong ảnh"
+      },
+      {
+        "line": 614,
+        "title": "4. Lưu các tuyến đường để mở nhanh khi có Internet"
+      },
+      {
+        "line": 620,
+        "title": "5. Mẹo sắp xếp ảnh để tìm thật nhanh"
+      },
+      {
+        "line": 632,
+        "title": "✅ Chốt cho tối 27/10"
+      },
+      {
+        "line": 644,
+        "title": "🇹🇭 DAY 01 — English Survival Kit"
+      },
+      {
+        "line": 654,
+        "title": "✈️ 01 — At the Airport"
+      },
+      {
+        "line": 668,
+        "title": "Khi nhân viên nhập cảnh hỏi"
+      },
+      {
+        "line": 724,
+        "title": "💚 02 — Currency Exchange"
+      },
+      {
+        "line": 756,
+        "title": "🚆 03 — Airport Rail Link & BTS"
+      },
+      {
+        "line": 784,
+        "title": "Đoạn hội thoại thực tế"
+      },
+      {
+        "line": 802,
+        "title": "🏨 04 — Checking in at College Haus"
+      },
+      {
+        "line": 821,
+        "title": "Nếu đến trước giờ nhận phòng"
+      },
+      {
+        "line": 827,
+        "title": "👻 05 — centralwOrld Halloween"
+      },
+      {
+        "line": 847,
+        "title": "🧸 Nếu ghé photobooth"
+      },
+      {
+        "line": 854,
+        "title": "🍜 06 — Dinner at ThongSmith"
+      },
+      {
+        "line": 871,
+        "title": "Câu gọi món hoàn chỉnh"
+      },
+      {
+        "line": 879,
+        "title": "🛒 07 — Shopping at Big C"
+      },
+      {
+        "line": 895,
+        "title": "🚗 08 — Going Back to College Haus"
+      },
+      {
+        "line": 905,
+        "title": "🤍 09 — Những câu cứu nguy"
+      },
+      {
+        "line": 922,
+        "title": "📱 10 — Chụp màn hình phần này: 12 câu quan trọng nhất"
+      }
+    ]
+  },
+  {
+    "day": 4,
+    "file": "content/day-04.txt",
+    "source_name": "# 🇹🇭 DAY 04 — Full Travel Checkli.txt",
+    "lines": 1090,
+    "characters": 42497,
+    "sha256": "d4b7d93ce085c6386e18a684278e2354850054096ccfe4f873ea975c4d37e920",
+    "headings": [
+      {
+        "line": 1,
+        "title": "🇹🇭 DAY 04 — Full Travel Checklist"
+      },
+      {
+        "line": 3,
+        "title": "Old Bangkok, Little Streets & Chinatown After Dark 🏮"
+      },
+      {
+        "line": 19,
+        "title": "26–33°C"
+      },
+      {
+        "line": 27,
+        "title": "🗺️ 01 — DAY 04 Map"
+      },
+      {
+        "line": 63,
+        "title": "⏰ 02 — Lịch trình đề xuất"
+      },
+      {
+        "line": 81,
+        "title": "🏛️ 03 — Buổi sáng: Giant Swing, Nai Uan & K. Panich"
+      },
+      {
+        "line": 155,
+        "title": "🎨 04 — Buổi chiều: Talat Noi & Song Wat Road"
+      },
+      {
+        "line": 167,
+        "title": "Điểm nên ghé theo thứ tự linh hoạt"
+      },
+      {
+        "line": 184,
+        "title": "Photo checklist"
+      },
+      {
+        "line": 202,
+        "title": "🏮 05 — Buổi tối: Yaowarat After Dark"
+      },
+      {
+        "line": 206,
+        "title": "17:30 — Đến Chinatown"
+      },
+      {
+        "line": 223,
+        "title": "18:00 — Nai Ek Roll Noodles"
+      },
+      {
+        "line": 250,
+        "title": "🚆 06 — Hướng dẫn di chuyển trong DAY 04"
+      },
+      {
+        "line": 277,
+        "title": "🎒 07 — Full Checklist trước khi rời College Haus"
+      },
+      {
+        "line": 327,
+        "title": "💵 08 — Ngân sách dự phòng cho 2 người"
+      },
+      {
+        "line": 353,
+        "title": "☔ 09 — Nếu trời mưa hoặc lịch trình bị trễ"
+      },
+      {
+        "line": 371,
+        "title": "📱 10 — Những ảnh màn hình cần lưu vào iPhone"
+      },
+      {
+        "line": 399,
+        "title": "🤍 11 — Chốt lịch trình DAY 04"
+      },
+      {
+        "line": 423,
+        "title": "🇹🇭 DAY 04 — Bangkok Offline Map & Screenshot Checklist"
+      },
+      {
+        "line": 435,
+        "title": "🗺️ 01 — Bản đồ DAY 04"
+      },
+      {
+        "line": 471,
+        "title": "📍 02 — Lưu các địa chỉ quan trọng"
+      },
+      {
+        "line": 498,
+        "title": "📥 03 — Tải bản đồ Bangkok ngoại tuyến trên iPhone"
+      },
+      {
+        "line": 530,
+        "title": "📸 04 — Checklist 10 ảnh màn hình cần chụp"
+      },
+      {
+        "line": 580,
+        "title": "Cách chụp trên iPhone"
+      },
+      {
+        "line": 596,
+        "title": "🚇 05 — Hai tuyến tàu quan trọng nhất"
+      },
+      {
+        "line": 598,
+        "title": "Tuyến A: Old Town → Talat Noi"
+      },
+      {
+        "line": 610,
+        "title": "Tuyến B: Yaowarat → College Haus"
+      },
+      {
+        "line": 631,
+        "title": "📱 06 — Tạo một danh sách riêng trong Google Maps"
+      },
+      {
+        "line": 651,
+        "title": "🤍 07 — Thẻ địa chỉ để chụp một ảnh cuối cùng"
+      },
+      {
+        "line": 687,
+        "title": "🇹🇭 DAY 04 — English Survival Guide"
+      },
+      {
+        "line": 697,
+        "title": "🚕 01 — College Haus → Giant Swing | Gọi xe và hỏi đường"
+      },
+      {
+        "line": 711,
+        "title": "Hi! We're going to the Giant Swing."
+      },
+      {
+        "line": 717,
+        "title": "📸 02 — Giant Swing | Chụp ảnh ở phố cổ"
+      },
+      {
+        "line": 743,
+        "title": "🍜 03 — Nai Uan Yentafo | Gọi món mì Thái"
+      },
+      {
+        "line": 759,
+        "title": "Gọi món"
+      },
+      {
+        "line": 793,
+        "title": "🥭 04 — K. Panich | Mua mango sticky rice"
+      },
+      {
+        "line": 826,
+        "title": "🎨 05 — Talat Noi | Xin phép chụp ảnh"
+      },
+      {
+        "line": 853,
+        "title": "Khi muốn chụp chung với bạn đồng hành"
+      },
+      {
+        "line": 860,
+        "title": "☕ 06 — Mother Roaster / Hong Sieng Kong | Nghỉ uống cà phê"
+      },
+      {
+        "line": 885,
+        "title": "🏘️ 07 — Song Wat Road | Dạo phố và mua sắm nhỏ"
+      },
+      {
+        "line": 904,
+        "title": "🏮 08 — Yaowarat | Ăn uống tại Chinatown"
+      },
+      {
+        "line": 925,
+        "title": "Khi mua đồ ăn vặt"
+      },
+      {
+        "line": 943,
+        "title": "🍲 09 — Nai Ek Roll Noodles | Gọi Guay Jub"
+      },
+      {
+        "line": 972,
+        "title": "🚇 10 — MRT & BTS | Tìm đường về College Haus"
+      },
+      {
+        "line": 993,
+        "title": "Khi bị lạc"
+      },
+      {
+        "line": 1000,
+        "title": "🤍 11 — Pocket English Card | 12 câu cần lưu nhất"
+      },
+      {
+        "line": 1082,
+        "title": "Một câu mình đặc biệt muốn Gianna nhớ"
+      }
+    ]
+  },
+  {
+    "day": 5,
+    "file": "content/day-05.txt",
+    "source_name": "# 🇹🇭 DAY 05 — A Little Art, A Lot.txt",
+    "lines": 776,
+    "characters": 31504,
+    "sha256": "b959ec8ec066e9712832903461704631f6af1d193196350cdc9490437ef1262b",
+    "headings": [
+      {
+        "line": 1,
+        "title": "🇹🇭 DAY 05 — A Little Art, A Lot of Halloween Magic 🎃"
+      },
+      {
+        "line": 23,
+        "title": "01 — Lịch trình đề xuất"
+      },
+      {
+        "line": 40,
+        "title": "02 — Bản đồ DAY 05"
+      },
+      {
+        "line": 76,
+        "title": "03 — Full checklist trước khi ra khỏi khách sạn"
+      },
+      {
+        "line": 98,
+        "title": "04 — Chatuchak Weekend Market 🛍️"
+      },
+      {
+        "line": 132,
+        "title": "05 — MOCA Bangkok 🎨"
+      },
+      {
+        "line": 174,
+        "title": "06 — Chocolate Ville · Spooky Town 🎃"
+      },
+      {
+        "line": 194,
+        "title": "Checklist trước khi đến"
+      },
+      {
+        "line": 212,
+        "title": "Các mốc biểu diễn đáng chú ý"
+      },
+      {
+        "line": 250,
+        "title": "07 — Ngân sách DAY 05 cho 2 người"
+      },
+      {
+        "line": 267,
+        "title": "08 — Checklist cuối ngày: chuẩn bị DAY 06 ✈️"
+      },
+      {
+        "line": 293,
+        "title": "09 — Khi trời mưa hoặc lịch bị chậm"
+      },
+      {
+        "line": 301,
+        "title": "10 — Những thứ cần lưu trên iPhone"
+      },
+      {
+        "line": 321,
+        "title": "🗺️ DAY 05 — Bangkok Offline Map & Important Addresses"
+      },
+      {
+        "line": 329,
+        "title": "1. Bản đồ DAY 05"
+      },
+      {
+        "line": 353,
+        "title": "2. Thẻ địa chỉ DAY 05 — Chụp màn hình này 📸"
+      },
+      {
+        "line": 357,
+        "title": "DAY 05 · SAVE OFFLINE"
+      },
+      {
+        "line": 397,
+        "title": "3. Mở Google Maps từng điểm"
+      },
+      {
+        "line": 410,
+        "title": "4. Tải bản đồ Bangkok ngoại tuyến trên iPhone"
+      },
+      {
+        "line": 431,
+        "title": "Nên tải những khu vực nào?"
+      },
+      {
+        "line": 455,
+        "title": "5. Sáu ảnh màn hình cần có trong album DAY 05"
+      },
+      {
+        "line": 483,
+        "title": "🇹🇭 DAY 05 — English Survival Guide"
+      },
+      {
+        "line": 499,
+        "title": "01 — Getting Around · Đi tàu và hỏi đường 🚆"
+      },
+      {
+        "line": 521,
+        "title": "02 — Chatuchak Weekend Market · Mua sắm & trả giá 🛍️"
+      },
+      {
+        "line": 535,
+        "title": "Hỏi giá và lựa chọn sản phẩm"
+      },
+      {
+        "line": 547,
+        "title": "Trả giá tự nhiên"
+      },
+      {
+        "line": 576,
+        "title": "Mua kem dừa 🥥"
+      },
+      {
+        "line": 586,
+        "title": "03 — MOCA Bangkok · Vé và chụp ảnh 🎨"
+      },
+      {
+        "line": 602,
+        "title": "Mua vé"
+      },
+      {
+        "line": 611,
+        "title": "Hỏi về máy ảnh"
+      },
+      {
+        "line": 630,
+        "title": "04 — Chocolate Ville · Halloween & Dinner 🎃"
+      },
+      {
+        "line": 644,
+        "title": "Khi đến cổng"
+      },
+      {
+        "line": 657,
+        "title": "Chọn bàn và gọi món"
+      },
+      {
+        "line": 671,
+        "title": "Hỏi về Spooky Town & Ghostbusters Show"
+      },
+      {
+        "line": 701,
+        "title": "05 — Grab, Taxi & Returning to College Haus 🚕"
+      },
+      {
+        "line": 715,
+        "title": "Câu dành riêng cho lúc về muộn"
+      },
+      {
+        "line": 731,
+        "title": "06 — Useful Phrases · Khi nghe không rõ hoặc gặp khó khăn"
+      },
+      {
+        "line": 745,
+        "title": "07 — Five-Minute English Practice · Luyện nhanh trước khi đi"
+      },
+      {
+        "line": 751,
+        "title": "Xin giảm giá khi mua hai món."
+      },
+      {
+        "line": 759,
+        "title": "🤍 Gianna’s little reminder"
+      }
+    ]
+  },
+  {
+    "day": 6,
+    "file": "content/day-06.txt",
+    "source_name": "# 🇹🇭 DAY 06 — Until Next Time, Ba.txt",
+    "lines": 822,
+    "characters": 34888,
+    "sha256": "0aad3dccc4f2d24702088aba9afec6a91ddbecc56f809287a999714a9a7c0cce",
+    "headings": [
+      {
+        "line": 1,
+        "title": "🇹🇭 DAY 06 — Until Next Time, Bangkok 🤍"
+      },
+      {
+        "line": 23,
+        "title": "Vietjet VJ804"
+      },
+      {
+        "line": 29,
+        "title": "14:00"
+      },
+      {
+        "line": 35,
+        "title": "10:15"
+      },
+      {
+        "line": 47,
+        "title": "01 — Timeline sáng DAY 06"
+      },
+      {
+        "line": 67,
+        "title": "02 — Checklist tương tác DAY 06"
+      },
+      {
+        "line": 73,
+        "title": "🌙 Tối DAY 05 · Chuẩn bị trước khi ngủ"
+      },
+      {
+        "line": 89,
+        "title": "☀️ 07:00–08:45 · Rời College Haus"
+      },
+      {
+        "line": 105,
+        "title": "🚆 08:45–10:30 · College Haus → BKK"
+      },
+      {
+        "line": 121,
+        "title": "🧳 10:30–11:45 · Check-in & hành lý"
+      },
+      {
+        "line": 135,
+        "title": "🛂 11:45–13:00 · An ninh, xuất cảnh, boarding"
+      },
+      {
+        "line": 151,
+        "title": "🇻🇳 Khi về đến Tân Sơn Nhất"
+      },
+      {
+        "line": 163,
+        "title": "03 — Hướng dẫn đi tàu cho người mới"
+      },
+      {
+        "line": 221,
+        "title": "04 — Thứ tự làm thủ tục tại Suvarnabhumi"
+      },
+      {
+        "line": 258,
+        "title": "05 — VAT Refund: Có cần làm không? 💚"
+      },
+      {
+        "line": 287,
+        "title": "06 — Hành lý Vietjet: Những món cần kiểm tra lần cuối"
+      },
+      {
+        "line": 304,
+        "title": "Ba quy định rất đáng nhớ"
+      },
+      {
+        "line": 330,
+        "title": "07 — Tiền mặt, SIM và những việc cuối cùng"
+      },
+      {
+        "line": 338,
+        "title": "08 — English to Use on DAY 06"
+      },
+      {
+        "line": 352,
+        "title": "09 — Lưu những liên kết này trước khi ngủ"
+      },
+      {
+        "line": 362,
+        "title": "Until Next Time, Bangkok 🤍"
+      },
+      {
+        "line": 372,
+        "title": "🗺️ DAY 06 — Bangkok Airport Map & Important Addresses"
+      },
+      {
+        "line": 382,
+        "title": "1. Bản đồ DAY 06"
+      },
+      {
+        "line": 402,
+        "title": "Victory Monument (N3) → Phaya Thai (N2)"
+      },
+      {
+        "line": 406,
+        "title": "Phaya Thai → Suvarnabhumi"
+      },
+      {
+        "line": 424,
+        "title": "2. Thẻ địa chỉ — Chụp màn hình này 📸"
+      },
+      {
+        "line": 428,
+        "title": "DAY 06 · SAVE OFFLINE"
+      },
+      {
+        "line": 470,
+        "title": "3. Mở chỉ đường từng chặng"
+      },
+      {
+        "line": 479,
+        "title": "4. Tải bản đồ Bangkok ngoại tuyến trên iPhone"
+      },
+      {
+        "line": 499,
+        "title": "5. Sáu ảnh màn hình quan trọng nhất"
+      },
+      {
+        "line": 519,
+        "title": "6. Lưu bản đồ bên trong sân bay"
+      },
+      {
+        "line": 550,
+        "title": "🇹🇭 DAY 06 — English Survival Guide"
+      },
+      {
+        "line": 564,
+        "title": "01 — Hotel Check-out · Trả phòng College Haus 🏨"
+      },
+      {
+        "line": 579,
+        "title": "Hội thoại mẫu"
+      },
+      {
+        "line": 603,
+        "title": "02 — BTS & Airport Rail Link · Đi tàu ra sân bay 🚆"
+      },
+      {
+        "line": 634,
+        "title": "03 — At Suvarnabhumi Airport · Tìm quầy Vietjet ✈️"
+      },
+      {
+        "line": 651,
+        "title": "Riêng vấn đề giờ bay VJ804"
+      },
+      {
+        "line": 661,
+        "title": "04 — Check-in & Baggage · Hành lý ký gửi 🧳"
+      },
+      {
+        "line": 674,
+        "title": "Với Nikon D3200 và sạc dự phòng"
+      },
+      {
+        "line": 692,
+        "title": "05 — VAT Refund · Hoàn thuế mua sắm 💚"
+      },
+      {
+        "line": 713,
+        "title": "06 — Security & Immigration · An ninh và xuất cảnh 🛂"
+      },
+      {
+        "line": 734,
+        "title": "07 — Boarding Gate · Tìm cửa lên máy bay"
+      },
+      {
+        "line": 759,
+        "title": "Nếu phải đi sang khu SAT-1"
+      },
+      {
+        "line": 767,
+        "title": "08 — Five Essential Sentences · Chụp màn hình để mang theo 📸"
+      },
+      {
+        "line": 771,
+        "title": "Airport English Cheat Sheet 🤍"
+      },
+      {
+        "line": 805,
+        "title": "09 — Khi không nghe rõ"
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "file": "content/day-02.txt",
+    "source_name": "# 🌸 DAY 02 — Thai Elegance & A Sun.txt",
+    "lines": 1069,
+    "characters": 47515,
+    "sha256": "6ce3afe0d17b9eabc2211570f31f2f14c7b041f2a3342b718cef3eb08ced7660",
+    "headings": [
+      {
+        "line": 1,
+        "title": "🌸 DAY 02 — Thai Elegance & A Sunset on the Chao Phraya"
+      },
+      {
+        "line": 15,
+        "title": "26–33°C"
+      },
+      {
+        "line": 21,
+        "title": "01 — Lịch trình chi tiết"
+      },
+      {
+        "line": 45,
+        "title": "02 — Bản đồ các điểm DAY 02"
+      },
+      {
+        "line": 75,
+        "title": "03 — Checklist trước khi rời College Haus"
+      },
+      {
+        "line": 105,
+        "title": "04 — Buổi sáng: College Haus → Baanwangdoem7 → Wat Arun"
+      },
+      {
+        "line": 125,
+        "title": "🚗 07:00 — Đi Grab là lựa chọn nên ưu tiên"
+      },
+      {
+        "line": 141,
+        "title": "👘 08:00 — Thuê Chut Thai, makeup và làm tóc"
+      },
+      {
+        "line": 154,
+        "title": "Checklist tại cửa hàng"
+      },
+      {
+        "line": 195,
+        "title": "📸 09:30–10:30 — Chụp Chut Thai tại Wat Arun"
+      },
+      {
+        "line": 223,
+        "title": "🧳 11:15 — Trả trang phục trước khi qua sông"
+      },
+      {
+        "line": 231,
+        "title": "05 — Buổi trưa: phà Wat Arun → Tha Tien → Mitr Street"
+      },
+      {
+        "line": 255,
+        "title": "🍜 12:00 — Mitr Street by Ruay Mitr"
+      },
+      {
+        "line": 284,
+        "title": "06 — Đi tàu cờ xanh đến ICONSIAM"
+      },
+      {
+        "line": 340,
+        "title": "07 — Chiều và tối: ICONSIAM, SOOKSIAM và hoàng hôn"
+      },
+      {
+        "line": 344,
+        "title": "🛍️ 14:45–16:45 — Khám phá ICONSIAM"
+      },
+      {
+        "line": 361,
+        "title": "🌅 16:45–17:45 — Hoàng hôn bên sông"
+      },
+      {
+        "line": 382,
+        "title": "⛲ 18:00 trở đi — Nhạc nước River Park"
+      },
+      {
+        "line": 394,
+        "title": "08 — Trở về College Haus"
+      },
+      {
+        "line": 442,
+        "title": "09 — Ngân sách DAY 02 cho hai người"
+      },
+      {
+        "line": 459,
+        "title": "10 — Những thứ dễ quên nhất trong DAY 02"
+      },
+      {
+        "line": 469,
+        "title": "🤍 DAY 02 — Bản tóm tắt để lưu vào Thailand Travel Notes"
+      },
+      {
+        "line": 484,
+        "title": "🗺️ DAY 02 — Bangkok Offline Maps & Important Addresses"
+      },
+      {
+        "line": 501,
+        "title": "01 — Tải Bangkok Offline Map trên iPhone"
+      },
+      {
+        "line": 521,
+        "title": "02 — Bản đồ các địa chỉ DAY 02"
+      },
+      {
+        "line": 551,
+        "title": "03 — Mở từng địa chỉ trong Google Maps"
+      },
+      {
+        "line": 582,
+        "title": "04 — Sáu ảnh chụp màn hình quan trọng nhất"
+      },
+      {
+        "line": 628,
+        "title": "05 — Tạo danh sách địa điểm DAY 02 trong Google Maps"
+      },
+      {
+        "line": 644,
+        "title": "Cách chụp màn hình iPhone"
+      },
+      {
+        "line": 656,
+        "title": "06 — Thẻ địa chỉ khẩn cấp để lưu ảnh"
+      },
+      {
+        "line": 684,
+        "title": "🌸 DAY 02 — English Survival Guide"
+      },
+      {
+        "line": 693,
+        "title": "01 — 07:00 | College Haus → Baanwangdoem7 🚗"
+      },
+      {
+        "line": 724,
+        "title": "02 — 08:00 | Check-in tại cửa hàng Chut Thai 👘"
+      },
+      {
+        "line": 728,
+        "title": "Khi đến cửa hàng"
+      },
+      {
+        "line": 742,
+        "title": "Chọn trang phục"
+      },
+      {
+        "line": 758,
+        "title": "03 — Makeup & Hairstyling 💄"
+      },
+      {
+        "line": 781,
+        "title": "Làm tóc"
+      },
+      {
+        "line": 792,
+        "title": "04 — 09:30–10:30 | Photographer tại Wat Arun 📸"
+      },
+      {
+        "line": 798,
+        "title": "Trước khi bắt đầu"
+      },
+      {
+        "line": 809,
+        "title": "Trong lúc chụp"
+      },
+      {
+        "line": 820,
+        "title": "Sau khi chụp"
+      },
+      {
+        "line": 838,
+        "title": "05 — Wat Arun | Vé vào cổng & tham quan 🛕"
+      },
+      {
+        "line": 858,
+        "title": "06 — 11:15 | Trả trang phục"
+      },
+      {
+        "line": 874,
+        "title": "07 — Đi phà Wat Arun → Tha Tien ⛴️"
+      },
+      {
+        "line": 895,
+        "title": "08 — 12:00 | Ăn trưa tại Mitr Street 🍜"
+      },
+      {
+        "line": 929,
+        "title": "09 — Chao Phraya Tourist Boat → ICONSIAM 🚤"
+      },
+      {
+        "line": 939,
+        "title": "Tìm đúng bến và mua vé"
+      },
+      {
+        "line": 962,
+        "title": "10 — ICONSIAM & SOOKSIAM 🛍️"
+      },
+      {
+        "line": 975,
+        "title": "Nếu trời mưa"
+      },
+      {
+        "line": 991,
+        "title": "11 — 19:30 | ICONSIAM → College Haus 🚆"
+      },
+      {
+        "line": 1015,
+        "title": "🤍 12 câu quan trọng nhất — Lưu ảnh để dùng ngay"
+      },
+      {
+        "line": 1047,
+        "title": "Một cuộc hội thoại mẫu tại cửa hàng"
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "file": "content/day-03.txt",
+    "source_name": "# 🛍️ DAY 03 — Little Finds, Big Ci.txt",
+    "lines": 1068,
+    "characters": 41172,
+    "sha256": "76477b6de3ee43f4420b231a3bfb11ecfec98f202bc05465090f749bb6c95973",
+    "headings": [
+      {
+        "line": 1,
+        "title": "🛍️ DAY 03 — Little Finds, Big City Energy"
+      },
+      {
+        "line": 21,
+        "title": "26–35°C"
+      },
+      {
+        "line": 27,
+        "title": "01 — Lịch trình tối ưu cho DAY 03"
+      },
+      {
+        "line": 49,
+        "title": "02 — Bản đồ DAY 03"
+      },
+      {
+        "line": 101,
+        "title": "03 — Full checklist trước khi ra khỏi College Haus"
+      },
+      {
+        "line": 177,
+        "title": "04 — Hướng dẫn di chuyển cho người mới"
+      },
+      {
+        "line": 179,
+        "title": "🚆 Chặng 1: College Haus → One Bangkok"
+      },
+      {
+        "line": 203,
+        "title": "👟 CARNIVAL — 10:00–11:15"
+      },
+      {
+        "line": 226,
+        "title": "🍱 MITSUKOSHI DEPACHIKA — 11:20–12:30"
+      },
+      {
+        "line": 244,
+        "title": "📚 Chặng 2: One Bangkok → Central Chidlom"
+      },
+      {
+        "line": 267,
+        "title": "🎨 Chặng 3: Central Chidlom → bit.studio gallery"
+      },
+      {
+        "line": 303,
+        "title": "05 — Chiều tối tại Siam Center & Siam Square"
+      },
+      {
+        "line": 305,
+        "title": "👗 16:30 — Siam Center"
+      },
+      {
+        "line": 311,
+        "title": "🍞 17:30 — After You"
+      },
+      {
+        "line": 327,
+        "title": "🧸 18:15 — MINISO LAND"
+      },
+      {
+        "line": 345,
+        "title": "🥗 19:00 — Som Tam Nua"
+      },
+      {
+        "line": 370,
+        "title": "06 — Đường về College Haus"
+      },
+      {
+        "line": 381,
+        "title": "07 — Dự trù ngân sách DAY 03"
+      },
+      {
+        "line": 401,
+        "title": "08 — Những điều giúp DAY 03 trọn vẹn hơn"
+      },
+      {
+        "line": 413,
+        "title": "🤍 DAY 03 — Bản tóm tắt cho Thailand Travel Notes"
+      },
+      {
+        "line": 428,
+        "title": "🇹🇭 DAY 03 — Bangkok Shopping & Art Map"
+      },
+      {
+        "line": 446,
+        "title": "🗺️ Bản đồ DAY 03"
+      },
+      {
+        "line": 480,
+        "title": "01 — Lưu các địa chỉ quan trọng"
+      },
+      {
+        "line": 516,
+        "title": "02 — Cách tải bản đồ Bangkok về iPhone"
+      },
+      {
+        "line": 548,
+        "title": "03 — Checklist 9 ảnh màn hình cần chụp"
+      },
+      {
+        "line": 596,
+        "title": "04 — Hướng dẫn di chuyển cần lưu"
+      },
+      {
+        "line": 628,
+        "title": "05 — Thẻ địa chỉ để chụp một ảnh cuối cùng"
+      },
+      {
+        "line": 660,
+        "title": "🇹🇭 DAY 03 — English Survival Guide"
+      },
+      {
+        "line": 670,
+        "title": "🚆 01 — BTS & EV Shuttle | Di chuyển đến One Bangkok"
+      },
+      {
+        "line": 695,
+        "title": "Excuse me, is this the free shuttle to One Bangkok?"
+      },
+      {
+        "line": 701,
+        "title": "👟 02 — CARNIVAL | Mua sneakers & streetwear"
+      },
+      {
+        "line": 717,
+        "title": "Hỏi mẫu giày, màu sắc và kích cỡ"
+      },
+      {
+        "line": 732,
+        "title": "Khi thử giày"
+      },
+      {
+        "line": 754,
+        "title": "🍱 03 — MITSUKOSHI DEPACHIKA | Ăn trưa"
+      },
+      {
+        "line": 784,
+        "title": "📚 04 — Central Chidlom | B2S Think Space & Book Cave"
+      },
+      {
+        "line": 805,
+        "title": "🎨 05 — bit.studio gallery | Nghệ thuật tương tác"
+      },
+      {
+        "line": 821,
+        "title": "Tại quầy vé"
+      },
+      {
+        "line": 854,
+        "title": "👗 06 — Siam Center & MINISO LAND | Mua sắm"
+      },
+      {
+        "line": 856,
+        "title": "Tại cửa hàng thời trang"
+      },
+      {
+        "line": 868,
+        "title": "Tại MINISO LAND"
+      },
+      {
+        "line": 888,
+        "title": "🍞 07 — After You | Nghỉ chân ăn bánh"
+      },
+      {
+        "line": 916,
+        "title": "🥗 08 — Som Tam Nua | Ăn tối"
+      },
+      {
+        "line": 934,
+        "title": "Mildly spicy, please."
+      },
+      {
+        "line": 942,
+        "title": "🚕 09 — Grab/Bolt | Khi mệt hoặc trời mưa"
+      },
+      {
+        "line": 968,
+        "title": "🤍 10 — 12 câu tiếng Anh cần thuộc nhất trong DAY 03"
+      },
+      {
+        "line": 1052,
+        "title": "Một mẹo nhỏ khi giao tiếp ở Bangkok"
+      }
+    ]
+  }
+]
