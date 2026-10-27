@@ -1,0 +1,1724 @@
+{
+  "trip": {
+    "name": "Gianna's Travel Companion",
+    "destination": "Bangkok",
+    "travelers": 2,
+    "hotel": "College Haus",
+    "start": "2026-10-28",
+    "end": "2026-11-02"
+  },
+  "days": [
+    {
+      "id": 1,
+      "date": "2026-10-28",
+      "title": "Bangkok, Here We Come!",
+      "activities": [
+        {
+          "id": "d1-a1",
+          "time": "06:15",
+          "title": "Có mặt tại Tân Sơn Nhất",
+          "note": "Nhà ga quốc tế T2; làm thủ tục Vietjet"
+        },
+        {
+          "id": "d1-a2",
+          "time": "09:15–10:45",
+          "title": "✈️ SGN → BKK",
+          "note": "Theo giờ vé Gianna cung cấp"
+        },
+        {
+          "id": "d1-a3",
+          "time": "10:45–12:15",
+          "title": "🛬 Nhập cảnh, lấy hành lý",
+          "note": "Có thể nhanh hoặc chậm tùy lượng khách"
+        },
+        {
+          "id": "d1-a4",
+          "time": "12:15–12:45",
+          "title": "💚 Xuống tầng B đổi baht",
+          "note": "So sánh tỷ giá, mua vé Airport Rail Link"
+        },
+        {
+          "id": "d1-a5",
+          "time": "12:45–13:20",
+          "title": "🚆 ARL đến Phaya Thai",
+          "note": "Khoảng 30 phút trên tàu"
+        },
+        {
+          "id": "d1-a6",
+          "time": "13:20–14:00",
+          "title": "🚉 Về College Haus",
+          "note": "BTS thêm 1 ga hoặc đi bộ"
+        },
+        {
+          "id": "d1-a7",
+          "time": "14:00–15:30",
+          "title": "🏨 Nhận phòng, nghỉ ngơi",
+          "note": "Ăn nhẹ nếu đói, sạc điện thoại"
+        },
+        {
+          "id": "d1-a8",
+          "time": "15:30–16:15",
+          "title": "🚆 Đi BTS đến centralwOrld",
+          "note": "Xuống Chit Lom, đi bộ theo lối trên cao"
+        },
+        {
+          "id": "d1-a9",
+          "time": "16:15–17:30",
+          "title": "👻 Halloween tại centralwOrld",
+          "note": "Ưu tiên chụp ảnh lúc trời còn sáng"
+        },
+        {
+          "id": "d1-a10",
+          "time": "17:30–18:00",
+          "title": "🧸 SEEK ’N KEEP CLUB",
+          "note": "Điểm cộng thêm nếu còn sức"
+        },
+        {
+          "id": "d1-a11",
+          "time": "18:00–19:00",
+          "title": "🍜 Ăn tối ThongSmith",
+          "note": "Tầng 3, khu Beacon"
+        },
+        {
+          "id": "d1-a12",
+          "time": "19:00–20:00",
+          "title": "🛒 Big C Ratchadamri",
+          "note": "Mua nước uống, đồ ăn sáng, đồ dùng"
+        },
+        {
+          "id": "d1-a13",
+          "time": "20:00–20:45",
+          "title": "🌙 Trở về College Haus",
+          "note": "BTS hoặc Grab"
+        },
+        {
+          "id": "d1-a14",
+          "time": "Trước 22:00",
+          "title": "💤 Nghỉ ngơi",
+          "note": "DAY 02 có lịch mặc Chut Thai từ sáng"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "d1-t1",
+          "text": "Hoàn thành TDAC miễn phí cho cả 2 người; lưu email và mã xác nhận"
+        },
+        {
+          "id": "d1-t2",
+          "text": "Mở vé Vietjet, xác nhận lại giờ VJ801, mã đặt chỗ và hành lý"
+        },
+        {
+          "id": "d1-t3",
+          "text": "Kiểm tra hộ chiếu gốc còn hiệu lực ít nhất 6 tháng"
+        },
+        {
+          "id": "d1-t4",
+          "text": "Lưu vé về VJ804 ngày 02/11 và xác nhận đặt phòng College Haus"
+        },
+        {
+          "id": "d1-t5",
+          "text": "Cài eSIM Thái trên iPhone, giữ VinaPhone để nhận OTP"
+        },
+        {
+          "id": "d1-t6",
+          "text": "Chuẩn bị tiền VND/baht, thẻ dự phòng và tài khoản MoMo, Agribank Plus"
+        },
+        {
+          "id": "d1-t7",
+          "text": "Tải bản đồ Bangkok và chụp màn hình các địa chỉ quan trọng"
+        },
+        {
+          "id": "d1-t8",
+          "text": "Cân vali, kiểm tra chất lỏng và để pin dự phòng trong hành lý xách tay"
+        },
+        {
+          "id": "d1-t9",
+          "text": "Kiểm tra quầy Vietjet trên màn hình sân bay."
+        },
+        {
+          "id": "d1-t10",
+          "text": "Xuất trình hộ chiếu, vé và giấy tờ được yêu cầu."
+        },
+        {
+          "id": "d1-t11",
+          "text": "Đặt hộ chiếu và điện thoại trong túi dễ lấy."
+        },
+        {
+          "id": "d1-t12",
+          "text": "Sạc đầy điện thoại và pin dự phòng."
+        },
+        {
+          "id": "d1-t13",
+          "text": "Kiểm tra ảnh, sao lưu nếu cần."
+        },
+        {
+          "id": "d1-t14",
+          "text": "Đặt sẵn quần áo đi Wat Arun."
+        },
+        {
+          "id": "d1-t15",
+          "text": "Chuẩn bị tiền mặt thanh toán studio, makeup và photographer."
+        },
+        {
+          "id": "d1-t16",
+          "text": "Lưu địa chỉ studio Chut Thai."
+        },
+        {
+          "id": "d1-t17",
+          "text": "Kiểm tra lại giờ hẹn 08:00 ngày 29/10 với studio."
+        }
+      ],
+      "source": "# 🇹🇭 DAY 01 — Bangkok, Here We Co.txt"
+    },
+    {
+      "id": 2,
+      "date": "2026-10-29",
+      "title": "Thai Elegance & A Sunset",
+      "activities": [
+        {
+          "id": "d2-a1",
+          "time": "06:30–07:00",
+          "title": "Thức dậy, skincare, ăn sáng nhẹ",
+          "note": "Chuẩn bị da trước khi trang điểm"
+        },
+        {
+          "id": "d2-a2",
+          "time": "07:00–07:10",
+          "title": "Gọi Grab từ College Haus",
+          "note": "Đặt điểm đến chính xác là Baanwangdoem7"
+        },
+        {
+          "id": "d2-a3",
+          "time": "07:10–07:55",
+          "title": "Di chuyển đến cửa hàng",
+          "note": "Chừa thời gian cho kẹt xe"
+        },
+        {
+          "id": "d2-a4",
+          "time": "08:00–09:15",
+          "title": "Chọn Chut Thai, makeup, làm tóc",
+          "note": "Hai người có thể cần làm dịch vụ lần lượt"
+        },
+        {
+          "id": "d2-a5",
+          "time": "09:15–09:30",
+          "title": "Đi bộ đến Wat Arun, gặp photographer",
+          "note": "Kiểm tra vị trí hẹn chụp"
+        },
+        {
+          "id": "d2-a6",
+          "time": "09:30–10:30",
+          "title": "Chụp ảnh chuyên nghiệp",
+          "note": "Mốc giờ dự kiến theo yêu cầu của bạn"
+        },
+        {
+          "id": "d2-a7",
+          "time": "10:30–11:15",
+          "title": "Chụp thêm bằng điện thoại, tham quan chùa",
+          "note": "Ưu tiên ảnh chung của hai bạn"
+        },
+        {
+          "id": "d2-a8",
+          "time": "11:15–11:45",
+          "title": "Trở lại cửa hàng, thay đồ và trả trang phục",
+          "note": "Kiểm đếm phụ kiện"
+        },
+        {
+          "id": "d2-a9",
+          "time": "11:45–12:00",
+          "title": "Đi phà Wat Arun → Tha Tien",
+          "note": "Qua sông khoảng vài phút"
+        },
+        {
+          "id": "d2-a10",
+          "time": "12:00–13:15",
+          "title": "Ăn trưa tại Mitr Street by Ruay Mitr",
+          "note": "Nghỉ mát, uống nước"
+        },
+        {
+          "id": "d2-a11",
+          "time": "13:15–14:00",
+          "title": "Dạo Tha Tien, đi đến bến tàu phù hợp",
+          "note": "Xác nhận bến tàu cờ xanh"
+        },
+        {
+          "id": "d2-a12",
+          "time": "14:00–14:45",
+          "title": "Đi Chao Phraya Tourist Boat → ICONSIAM",
+          "note": "Giờ thực tế phụ thuộc chuyến tàu"
+        },
+        {
+          "id": "d2-a13",
+          "time": "14:45–16:45",
+          "title": "ICONSIAM & SOOKSIAM",
+          "note": "Tham quan trong nhà nếu mưa"
+        },
+        {
+          "id": "d2-a14",
+          "time": "16:45–17:45",
+          "title": "Ngắm sông, chụp ảnh hoàng hôn",
+          "note": "Có thể thay bằng chuyến tàu ngắm cảnh"
+        },
+        {
+          "id": "d2-a15",
+          "time": "18:00–19:30",
+          "title": "River Park, nhạc nước, ăn tối",
+          "note": "Xác nhận suất biểu diễn tại chỗ"
+        },
+        {
+          "id": "d2-a16",
+          "time": "19:30–20:30",
+          "title": "Đi tàu về College Haus",
+          "note": "Gold Line + BTS"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "d2-t1",
+          "text": "Lưu ảnh xác nhận đặt lịch Baanwangdoem7 trong điện thoại"
+        },
+        {
+          "id": "d2-t2",
+          "text": "Kiểm tra giờ hẹn photographer 09:30–10:30 và điểm gặp"
+        },
+        {
+          "id": "d2-t3",
+          "text": "Mang tiền baht để trả dịch vụ tại cửa hàng"
+        },
+        {
+          "id": "d2-t4",
+          "text": "Dự phòng 400฿ tiền vé Wat Arun cho hai người"
+        },
+        {
+          "id": "d2-t5",
+          "text": "Sạc đầy iPhone, pin dự phòng và kiểm tra eSIM dtac"
+        },
+        {
+          "id": "d2-t6",
+          "text": "Mở Grab và lưu địa chỉ cửa hàng"
+        },
+        {
+          "id": "d2-t7",
+          "text": "Bôi chống nắng phù hợp, dưỡng ẩm nhẹ; tránh nền quá dày"
+        },
+        {
+          "id": "d2-t8",
+          "text": "Mặc đồ dễ thay, ưu tiên áo cài nút hoặc cổ rộng"
+        },
+        {
+          "id": "d2-t9",
+          "text": "Mang sandal/giày bệt thoải mái và dễ tháo"
+        },
+        {
+          "id": "d2-t10",
+          "text": "Mang túi nhỏ, quạt mini, khăn giấy, giấy thấm dầu và ô gấp"
+        },
+        {
+          "id": "d2-t11",
+          "text": "Đảm bảo điện thoại còn dung lượng để lưu ảnh, video"
+        },
+        {
+          "id": "d2-t12",
+          "text": "Kiểm tra lại dự báo thời tiết trước lúc ra khỏi phòng"
+        },
+        {
+          "id": "d2-t13",
+          "text": "Đặt chuyến khoảng 07:00 hoặc sớm hơn nếu ứng dụng báo giao thông đông."
+        },
+        {
+          "id": "d2-t14",
+          "text": "Kiểm tra biển số trước khi lên xe."
+        },
+        {
+          "id": "d2-t15",
+          "text": "Mở cửa: 08:00–18:30."
+        },
+        {
+          "id": "d2-t16",
+          "text": "Mặc trang phục: khoảng 5 phút/người."
+        },
+        {
+          "id": "d2-t17",
+          "text": "Xuất trình ảnh đặt lịch khi đến cửa hàng"
+        },
+        {
+          "id": "d2-t18",
+          "text": "Xác nhận giờ hẹn, giá trọn gói và photographer"
+        },
+        {
+          "id": "d2-t19",
+          "text": "Chọn trang phục pastel: dusty pink, sage green hoặc champagne"
+        },
+        {
+          "id": "d2-t20",
+          "text": "Hỏi rõ giày, túi, đồ trang sức, ô chụp ảnh có tính phí không"
+        },
+        {
+          "id": "d2-t21",
+          "text": "Xác nhận điểm gặp photographer, cách nhận file ảnh"
+        },
+        {
+          "id": "d2-t22",
+          "text": "Mua vé Wat Arun trước khi vào khu tham quan có thu phí"
+        },
+        {
+          "id": "d2-t23",
+          "text": "Chụp đủ ảnh riêng, ảnh đôi, ảnh toàn thân, ảnh cận"
+        },
+        {
+          "id": "d2-t24",
+          "text": "Trả đầy đủ trang phục và phụ kiện trước khi qua sông"
+        },
+        {
+          "id": "d2-t25",
+          "text": "Hỏi photographer trước khi bắt đầu: “Could we take some photos together as well?”"
+        },
+        {
+          "id": "d2-t26",
+          "text": "Theo lịch này, hai bạn sẽ ở bờ đông sông cả buổi chiều. Trả đồ trước 11:45 giúp tránh việc phải quay lại Wat Arun lúc cuối ngày."
+        },
+        {
+          "id": "d2-t27",
+          "text": "Kiểm tra lại túi, khuyên tai, vòng cổ, giày, túi xách thuê và đồ cá nhân khi thay đồ."
+        }
+      ],
+      "source": "# 🌸 DAY 02 — Thai Elegance & A Sun.txt"
+    },
+    {
+      "id": 3,
+      "date": "2026-10-30",
+      "title": "Little Finds, Big City Energy",
+      "activities": [
+        {
+          "id": "d3-a1",
+          "time": "08:15–09:15",
+          "title": "Ăn sáng, chuẩn bị tại College Haus",
+          "note": "Giày êm, túi gọn"
+        },
+        {
+          "id": "d3-a2",
+          "time": "09:15–10:00",
+          "title": "BTS Victory Monument → Phloen Chit; EV Shuttle → One Bangkok",
+          "note": "Khởi hành trước giờ cửa hàng mở"
+        },
+        {
+          "id": "d3-a3",
+          "time": "10:00–11:15",
+          "title": "👟 CARNIVAL",
+          "note": "Tầng G, The Storeys"
+        },
+        {
+          "id": "d3-a4",
+          "time": "11:20–12:30",
+          "title": "🍱 MITSUKOSHI DEPACHIKA",
+          "note": "Tầng B1, Parade; ăn trưa"
+        },
+        {
+          "id": "d3-a5",
+          "time": "12:30–13:15",
+          "title": "Shuttle về Phloen Chit, BTS đến Chit Lom",
+          "note": "Một ga BTS"
+        },
+        {
+          "id": "d3-a6",
+          "time": "13:15–14:00",
+          "title": "📚 B2S Think Space — Book Cave",
+          "note": "Central Chidlom"
+        },
+        {
+          "id": "d3-a7",
+          "time": "14:00–14:40",
+          "title": "Di chuyển đến bit.studio gallery",
+          "note": "Dự phòng thời gian chờ xe"
+        },
+        {
+          "id": "d3-a8",
+          "time": "14:45–16:00",
+          "title": "🎨 FLOCK OF & Doooodles",
+          "note": "Slowcombo, tầng 3"
+        },
+        {
+          "id": "d3-a9",
+          "time": "16:00–16:30",
+          "title": "Đến Siam Center",
+          "note": "Có thể gọi Grab nếu trời nóng/mưa"
+        },
+        {
+          "id": "d3-a10",
+          "time": "16:30–17:30",
+          "title": "👗 Dạo Siam Center",
+          "note": "Thời trang, phụ kiện"
+        },
+        {
+          "id": "d3-a11",
+          "time": "17:30–18:15",
+          "title": "🍞 After You",
+          "note": "Nghỉ chân, ăn bánh"
+        },
+        {
+          "id": "d3-a12",
+          "time": "18:15–19:00",
+          "title": "🧸 MINISO LAND",
+          "note": "Siam Square Soi 8"
+        },
+        {
+          "id": "d3-a13",
+          "time": "19:00–20:00",
+          "title": "🥗 Som Tam Nua",
+          "note": "Ăn tối tại Siam Square Soi 5"
+        },
+        {
+          "id": "d3-a14",
+          "time": "20:00–20:30",
+          "title": "Dạo Siam Square",
+          "note": "Nếu còn sức"
+        },
+        {
+          "id": "d3-a15",
+          "time": "20:30–21:00",
+          "title": "BTS Siam → Victory Monument",
+          "note": "Về College Haus"
+        },
+        {
+          "id": "d3-a16",
+          "time": "09:15",
+          "title": "College Haus → BTS Victory Monument",
+          "note": "[Mở ga BTS](https://www.google.com/maps/search/?api=1\\&query=BTS+Victory+Monument+Bangkok\\&utm_source=chatgpt.com)"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "d3-t1",
+          "text": "Kiểm tra lại dự báo mưa và mang ô gấp"
+        },
+        {
+          "id": "d3-t2",
+          "text": "Mang sneakers hoặc giày bệt êm chân"
+        },
+        {
+          "id": "d3-t3",
+          "text": "Sạc đầy iPhone và pin dự phòng"
+        },
+        {
+          "id": "d3-t4",
+          "text": "Kiểm tra eSIM dtac và Google Maps hoạt động"
+        },
+        {
+          "id": "d3-t5",
+          "text": "Mang tiền baht mệnh giá nhỏ, thẻ thanh toán dự phòng"
+        },
+        {
+          "id": "d3-t6",
+          "text": "Lưu địa chỉ One Bangkok, Central Chidlom, bit.studio và Siam Square"
+        },
+        {
+          "id": "d3-t7",
+          "text": "Mang túi tote gấp gọn để đựng đồ mua sắm"
+        },
+        {
+          "id": "d3-t8",
+          "text": "Kiểm tra vé bit.studio ngày 30/10 nếu quyết định tham quan"
+        },
+        {
+          "id": "d3-t9",
+          "text": "Đi bộ đến BTS Victory Monument N3"
+        },
+        {
+          "id": "d3-t10",
+          "text": "Đi BTS hướng Kheha, xuống Phloen Chit E2"
+        },
+        {
+          "id": "d3-t11",
+          "text": "Xuống khu The Storeys, xác nhận điểm dừng với tài xế"
+        },
+        {
+          "id": "d3-t12",
+          "text": "Tìm CARNIVAL tầng G, phòng 2G29"
+        },
+        {
+          "id": "d3-t13",
+          "text": "Kiểm tra size giày, tình trạng hàng và giá trước khi mua"
+        },
+        {
+          "id": "d3-t14",
+          "text": "Ăn trưa và nghỉ chân trước khi rời One Bangkok"
+        },
+        {
+          "id": "d3-t15",
+          "text": "Đi shuttle về Phloen Chit"
+        },
+        {
+          "id": "d3-t16",
+          "text": "Đi BTS 1 ga đến Chit Lom E1"
+        },
+        {
+          "id": "d3-t17",
+          "text": "Tìm B2S Think Space tại Central Chidlom"
+        },
+        {
+          "id": "d3-t18",
+          "text": "Chụp ảnh Book Cave nếu cửa hàng cho phép"
+        },
+        {
+          "id": "d3-t19",
+          "text": "Xuất trình vé hoặc mua vé gallery tại quầy"
+        },
+        {
+          "id": "d3-t20",
+          "text": "Kiểm tra ngân sách trước khi mua thêm art toys"
+        },
+        {
+          "id": "d3-t21",
+          "text": "Ăn tối tại Som Tam Nua, Siam Square Soi 5"
+        },
+        {
+          "id": "d3-t22",
+          "text": "Kiểm tra ví, hóa đơn và đồ mua sắm trước khi ngủ"
+        },
+        {
+          "id": "d3-t23",
+          "text": "Lưu đường đi bộ từ khách sạn đến ga N3"
+        },
+        {
+          "id": "d3-t24",
+          "text": "Lưu đường đến Slowcombo, 126 Chulalongkorn Soi 50"
+        },
+        {
+          "id": "d3-t25",
+          "text": "Lưu đường đi Grab hoặc tuyến công cộng dự phòng"
+        },
+        {
+          "id": "d3-t26",
+          "text": "Lưu đường đi bộ giữa Siam Center, Soi 8 và Soi 5"
+        }
+      ],
+      "source": "# 🛍️ DAY 03 — Little Finds, Big Ci.txt"
+    },
+    {
+      "id": 4,
+      "date": "2026-10-31",
+      "title": "Old Bangkok & Chinatown",
+      "activities": [
+        {
+          "id": "d4-a1",
+          "time": "07:45",
+          "title": "Ăn sáng nhẹ, chuẩn bị đồ",
+          "note": "Mang ô và tiền mặt"
+        },
+        {
+          "id": "d4-a2",
+          "time": "08:15",
+          "title": "Rời College Haus",
+          "note": "Ưu tiên Grab đến Giant Swing"
+        },
+        {
+          "id": "d4-a3",
+          "time": "08:45–09:20",
+          "title": "📷 Giant Swing",
+          "note": "Chụp ảnh ngoài trời"
+        },
+        {
+          "id": "d4-a4",
+          "time": "09:30–10:15",
+          "title": "🍜 Nai Uan Yentafo",
+          "note": "Ăn sáng muộn"
+        },
+        {
+          "id": "d4-a5",
+          "time": "10:20–10:50",
+          "title": "🥭 K. Panich",
+          "note": "Mua mango sticky rice"
+        },
+        {
+          "id": "d4-a6",
+          "time": "11:00–11:45",
+          "title": "Di chuyển đến Talat Noi",
+          "note": "Grab hoặc MRT"
+        },
+        {
+          "id": "d4-a7",
+          "time": "11:45–14:30",
+          "title": "🎨 Talat Noi",
+          "note": "Street art, hẻm cổ, cà phê"
+        },
+        {
+          "id": "d4-a8",
+          "time": "14:30–15:45",
+          "title": "☕ Nghỉ chân",
+          "note": "Linh hoạt theo mưa"
+        },
+        {
+          "id": "d4-a9",
+          "time": "16:00–17:15",
+          "title": "🏘️ Song Wat Road",
+          "note": "Đi bộ, chụp ảnh các dãy nhà cổ"
+        },
+        {
+          "id": "d4-a10",
+          "time": "17:30–19:30",
+          "title": "🏮 Yaowarat & Nai Ek",
+          "note": "Ăn tối, khám phá Chinatown"
+        },
+        {
+          "id": "d4-a11",
+          "time": "20:00–20:45",
+          "title": "Về College Haus",
+          "note": "MRT + BTS hoặc Grab"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "d4-t1",
+          "text": "Chụp toàn cảnh Giant Swing và góc có Wat Suthat phía sau"
+        },
+        {
+          "id": "d4-t2",
+          "text": "Đi bộ từ Song Wat về phía Yaowarat."
+        },
+        {
+          "id": "d4-t3",
+          "text": "Chụp ảnh biển hiệu neon khi trời bắt đầu tối."
+        },
+        {
+          "id": "d4-t4",
+          "text": "Chọn món và hỏi giá trước khi gọi nếu không có bảng giá."
+        },
+        {
+          "id": "d4-t5",
+          "text": "Tìm đúng Nai Ek tại khu Yaowarat Soi 9."
+        },
+        {
+          "id": "d4-t6",
+          "text": "Chọn món theo hình nếu cần."
+        },
+        {
+          "id": "d4-t7",
+          "text": "Lưu ý nước dùng cay nồng do tiêu trắng, không nhất thiết do ớt."
+        },
+        {
+          "id": "d4-t8",
+          "text": "Không mang toàn bộ tiền mặt của chuyến đi"
+        },
+        {
+          "id": "d4-t9",
+          "text": "Hoàn thành Giant Swing sớm; ghé Nai Uan và K. Panich trước. Có thể đợi mưa giảm trong quán rồi mới sang Talat Noi."
+        },
+        {
+          "id": "d4-t10",
+          "text": "Ăn Nai Ek sớm, chọn thêm một hoặc hai món, rồi về bằng MRT. Không cần cố thử hết các quầy."
+        },
+        {
+          "id": "d4-t11",
+          "text": "Lưu lối đi bộ vào khu phố cổ Talat Noi"
+        },
+        {
+          "id": "d4-t12",
+          "text": "Mở tuyến đường cần lưu khi còn Internet."
+        },
+        {
+          "id": "d4-t13",
+          "text": "Chọn đúng chế độ Walking / Đi bộ hoặc Transit / Phương tiện công cộng."
+        },
+        {
+          "id": "d4-t14",
+          "text": "Lên MRT theo chiều đi qua Wat Mangkon (BL29)."
+        },
+        {
+          "id": "d4-t15",
+          "text": "Xuống Hua Lamphong (BL28)."
+        },
+        {
+          "id": "d4-t16",
+          "text": "Mở Google Maps để đi bộ tiếp đến Talat Noi."
+        },
+        {
+          "id": "d4-t17",
+          "text": "Để các ghim DAY 04 không lẫn với những ngày khác:"
+        }
+      ],
+      "source": "# 🇹🇭 DAY 04 — Full Travel Checkli.txt"
+    },
+    {
+      "id": 5,
+      "date": "2026-11-01",
+      "title": "A Little Art, A Lot of Halloween Magic",
+      "activities": [
+        {
+          "id": "d5-a1",
+          "time": "07:00–08:00",
+          "title": "Ăn sáng, chuẩn bị tại College Haus",
+          "note": "Mang túi gọn, giày êm"
+        },
+        {
+          "id": "d5-a2",
+          "time": "08:00–09:00",
+          "title": "BTS Victory Monument → Mo Chit",
+          "note": "Đến gần giờ chợ mở"
+        },
+        {
+          "id": "d5-a3",
+          "time": "09:00–11:15",
+          "title": "Chatuchak Weekend Market",
+          "note": "Mua sắm, ăn kem dừa"
+        },
+        {
+          "id": "d5-a4",
+          "time": "11:15–12:00",
+          "title": "Ăn trưa nhẹ và di chuyển",
+          "note": "Ưu tiên taxi/Grab đến MOCA"
+        },
+        {
+          "id": "d5-a5",
+          "time": "12:00–14:15",
+          "title": "MOCA Bangkok",
+          "note": "Tham quan, chụp ảnh"
+        },
+        {
+          "id": "d5-a6",
+          "time": "14:15–16:00",
+          "title": "Đi đến Chocolate Ville",
+          "note": "Giờ đến tùy giao thông"
+        },
+        {
+          "id": "d5-a7",
+          "time": "16:00–17:30",
+          "title": "Chocolate Ville",
+          "note": "Chụp ảnh trời còn sáng"
+        },
+        {
+          "id": "d5-a8",
+          "time": "17:30–19:30",
+          "title": "Ăn tối, ngắm đèn và Halloween",
+          "note": "Lịch biểu diễn cần xác nhận"
+        },
+        {
+          "id": "d5-a9",
+          "time": "19:30–21:00+",
+          "title": "Về College Haus",
+          "note": "Thời gian về tùy kẹt xe"
+        },
+        {
+          "id": "d5-a10",
+          "time": "21:00–22:30",
+          "title": "Soạn vali, chuẩn bị DAY 06",
+          "note": "Sáng mai đi sân bay"
+        },
+        {
+          "id": "d5-a11",
+          "time": "16:00",
+          "title": "Meet & Greet",
+          "note": ""
+        },
+        {
+          "id": "d5-a12",
+          "time": "16:50",
+          "title": "Car Parade",
+          "note": ""
+        },
+        {
+          "id": "d5-a13",
+          "time": "17:00",
+          "title": "Dance Parade",
+          "note": ""
+        },
+        {
+          "id": "d5-a14",
+          "time": "18:00",
+          "title": "Lovely Bubble Boat",
+          "note": ""
+        },
+        {
+          "id": "d5-a15",
+          "time": "19:10",
+          "title": "Sugar High Band",
+          "note": ""
+        },
+        {
+          "id": "d5-a16",
+          "time": "20:30",
+          "title": "Ghostbusters Show",
+          "note": ""
+        }
+      ],
+      "tasks": [
+        {
+          "id": "d5-t1",
+          "text": "Ăn sáng và uống đủ nước trước khi ra ngoài."
+        },
+        {
+          "id": "d5-t2",
+          "text": "Mặc trang phục thoáng, lịch sự, phù hợp cả chợ và bảo tàng."
+        },
+        {
+          "id": "d5-t3",
+          "text": "Mang giày thể thao hoặc giày đi bộ thật êm."
+        },
+        {
+          "id": "d5-t4",
+          "text": "Thoa kem chống nắng; mang quạt mini và khăn giấy."
+        },
+        {
+          "id": "d5-t5",
+          "text": "Mang baht tiền mặt, ưu tiên các tờ mệnh giá nhỏ."
+        },
+        {
+          "id": "d5-t6",
+          "text": "Sạc đầy iPhone, pin dự phòng và kiểm tra eSIM dtac."
+        },
+        {
+          "id": "d5-t7",
+          "text": "Lưu địa chỉ College Haus, Chatuchak, MOCA, Chocolate Ville trong Google Maps."
+        },
+        {
+          "id": "d5-t8",
+          "text": "Kiểm tra phí hành lý Vietjet trước khi mua quà lưu niệm."
+        },
+        {
+          "id": "d5-t9",
+          "text": "Xuống đúng BTS Mo Chit, lưu vị trí cửa ra để quay lại nếu cần."
+        },
+        {
+          "id": "d5-t10",
+          "text": "Chụp ảnh sơ đồ chợ hoặc đánh dấu lối vào trên Google Maps."
+        },
+        {
+          "id": "d5-t11",
+          "text": "Hỏi giá trước; so sánh vài gian nếu món đồ chưa có giá niêm yết."
+        },
+        {
+          "id": "d5-t12",
+          "text": "Kiểm tra kỹ hàng, kích cỡ và phụ kiện trước khi trả tiền."
+        },
+        {
+          "id": "d5-t13",
+          "text": "Kiểm tra túi xách, ví và điện thoại ở các lối đi đông người."
+        },
+        {
+          "id": "d5-t14",
+          "text": "Rời chợ đúng giờ để không ảnh hưởng đến MOCA."
+        },
+        {
+          "id": "d5-t15",
+          "text": "Kiểm tra giờ đến và gọi xe từ Chatuchak."
+        },
+        {
+          "id": "d5-t16",
+          "text": "Mua vé tại quầy hoặc kiểm tra vé trước trên website chính thức."
+        },
+        {
+          "id": "d5-t17",
+          "text": "Gửi túi xách hoặc balô lớn hơn khổ A4 tại khu giữ đồ của bảo tàng."
+        },
+        {
+          "id": "d5-t18",
+          "text": "Không chạm vào tác phẩm hoặc đứng chắn lối đi."
+        },
+        {
+          "id": "d5-t19",
+          "text": "Không mang đồ ăn, thức uống vào khu trưng bày."
+        },
+        {
+          "id": "d5-t20",
+          "text": "Kiểm tra đủ máy ảnh, điện thoại và túi đồ trước khi rời bảo tàng."
+        },
+        {
+          "id": "d5-t21",
+          "text": "Kiểm tra phí vào cổng riêng cho ngày 01/11."
+        },
+        {
+          "id": "d5-t22",
+          "text": "Gửi yêu cầu đặt bàn 2 người và chờ xác nhận từ nhà hàng."
+        },
+        {
+          "id": "d5-t23",
+          "text": "Hỏi nhà hàng lịch biểu diễn Halloween cụ thể ngày 01/11."
+        },
+        {
+          "id": "d5-t24",
+          "text": "Đặt Grab/taxi từ MOCA và theo dõi thời gian đến thực tế."
+        },
+        {
+          "id": "d5-t25",
+          "text": "Chụp ảnh khu làng khi trời còn sáng."
+        },
+        {
+          "id": "d5-t26",
+          "text": "Chụp thêm ảnh sau khi đèn trang trí bật."
+        },
+        {
+          "id": "d5-t27",
+          "text": "Ăn tối tại nhà hàng; giữ đủ ngân sách cho taxi về."
+        },
+        {
+          "id": "d5-t28",
+          "text": "Chụp màn hình vị trí điểm đón xe trước lúc ra về."
+        },
+        {
+          "id": "d5-t29",
+          "text": "Đặt bàn Chocolate Ville Giờ mở cửa & thông tin"
+        },
+        {
+          "id": "d5-t30",
+          "text": "Đóng vali và cân hành lý ký gửi, đối chiếu số kg đã mua."
+        },
+        {
+          "id": "d5-t31",
+          "text": "Để hộ chiếu, vé máy bay và giấy tờ quan trọng trong túi xách tay."
+        },
+        {
+          "id": "d5-t32",
+          "text": "Để pin dự phòng và pin máy ảnh dự phòng trong hành lý xách tay theo quy định hãng."
+        },
+        {
+          "id": "d5-t33",
+          "text": "Đặt Nikon D3200 ở vị trí được bảo vệ tốt, thuận tiện khi qua an ninh."
+        },
+        {
+          "id": "d5-t34",
+          "text": "Kiểm tra VinaPhone còn hoạt động và eSIM dtac còn Internet."
+        },
+        {
+          "id": "d5-t35",
+          "text": "Chụp màn hình đường Victory Monument → Phaya Thai → Airport Rail Link Suvarnabhumi."
+        },
+        {
+          "id": "d5-t36",
+          "text": "Kiểm tra hóa đơn mua sắm và giấy tờ VAT Refund nếu có."
+        },
+        {
+          "id": "d5-t37",
+          "text": "Sạc đầy điện thoại, máy ảnh và pin dự phòng."
+        },
+        {
+          "id": "d5-t38",
+          "text": "Đặt báo thức, dự định rời College Haus khoảng 08:45."
+        },
+        {
+          "id": "d5-t39",
+          "text": "Kiểm tra lại phòng trước khi ngủ: hộ chiếu, tiền, thẻ ngân hàng, chìa khóa, quà lưu niệm."
+        },
+        {
+          "id": "d5-t40",
+          "text": "Lưu bản đồ Bangkok ngoại tuyến trong Google Maps."
+        },
+        {
+          "id": "d5-t41",
+          "text": "Chụp màn hình đường từ College Haus đến BTS Victory Monument."
+        },
+        {
+          "id": "d5-t42",
+          "text": "Lưu ga Mo Chit (N8) và vị trí lối vào Chatuchak."
+        }
+      ],
+      "source": "# 🇹🇭 DAY 05 — A Little Art, A Lot.txt"
+    },
+    {
+      "id": 6,
+      "date": "2026-11-02",
+      "title": "Until Next Time, Bangkok",
+      "activities": [
+        {
+          "id": "d6-a1",
+          "time": "07:00–07:30",
+          "title": "Thức dậy, vệ sinh cá nhân, ăn sáng nhẹ",
+          "note": ""
+        },
+        {
+          "id": "d6-a2",
+          "time": "07:30–08:15",
+          "title": "Kiểm tra lần cuối vali và hành lý xách tay",
+          "note": ""
+        },
+        {
+          "id": "d6-a3",
+          "time": "08:15–08:45",
+          "title": "Kiểm tra phòng, hoàn tất check-out",
+          "note": ""
+        },
+        {
+          "id": "d6-a4",
+          "time": "08:45–09:00",
+          "title": "Đi bộ từ College Haus đến BTS Victory Monument",
+          "note": ""
+        },
+        {
+          "id": "d6-a5",
+          "time": "09:00–09:20",
+          "title": "BTS Victory Monument → Phaya Thai",
+          "note": ""
+        },
+        {
+          "id": "d6-a6",
+          "time": "09:20–09:45",
+          "title": "Chuyển tuyến, mua vé Airport Rail Link",
+          "note": ""
+        },
+        {
+          "id": "d6-a7",
+          "time": "09:45–10:15",
+          "title": "Airport Rail Link → Suvarnabhumi",
+          "note": ""
+        },
+        {
+          "id": "d6-a8",
+          "time": "10:15–10:30",
+          "title": "Lên khu Departures, tìm quầy Vietjet",
+          "note": ""
+        },
+        {
+          "id": "d6-a9",
+          "time": "10:30–11:45",
+          "title": "Hoàn VAT trước check-in nếu thuộc diện cần kiểm tra; check-in và gửi hành lý",
+          "note": ""
+        },
+        {
+          "id": "d6-a10",
+          "time": "11:45–12:30",
+          "title": "Kiểm tra an ninh, xuất cảnh",
+          "note": ""
+        },
+        {
+          "id": "d6-a11",
+          "time": "12:30–13:00",
+          "title": "Hoàn tất VAT sau xuất cảnh nếu có, tìm cửa lên máy bay",
+          "note": ""
+        },
+        {
+          "id": "d6-a12",
+          "time": "Từ 13:00",
+          "title": "Có mặt gần boarding gate, theo dõi giờ lên máy bay",
+          "note": ""
+        },
+        {
+          "id": "d6-a13",
+          "time": "13:50 hoặc 14:00",
+          "title": "Giờ bay cần đối chiếu vé điện tử",
+          "note": ""
+        }
+      ],
+      "tasks": [
+        {
+          "id": "d6-t1",
+          "text": "Xác nhận lại giờ VJ804 ngày 02/11 trên Vietjet My Booking hoặc email vé."
+        },
+        {
+          "id": "d6-t2",
+          "text": "Chụp màn hình mã đặt chỗ, vé điện tử và thông tin hành lý."
+        },
+        {
+          "id": "d6-t3",
+          "text": "Đóng vali, cân từng kiện và đối chiếu số kg hành lý đã mua."
+        },
+        {
+          "id": "d6-t4",
+          "text": "Để chất lỏng, mỹ phẩm dung tích lớn và vật nhọn dùng cho quần áo vào hành lý ký gửi phù hợp."
+        },
+        {
+          "id": "d6-t5",
+          "text": "Để hộ chiếu, ví, thẻ ngân hàng, tiền mặt và giấy tờ VAT trong túi dễ lấy."
+        },
+        {
+          "id": "d6-t6",
+          "text": "Sạc điện thoại, Nikon D3200 và pin dự phòng."
+        },
+        {
+          "id": "d6-t7",
+          "text": "Đặt ít nhất hai báo thức và lưu tuyến đường ra sân bay."
+        },
+        {
+          "id": "d6-t8",
+          "text": "Ăn sáng nhẹ và uống nước."
+        },
+        {
+          "id": "d6-t9",
+          "text": "Kiểm tra hộ chiếu của cả hai người."
+        },
+        {
+          "id": "d6-t10",
+          "text": "Kiểm tra điện thoại, sạc, máy ảnh, pin, dây cáp và thẻ nhớ."
+        },
+        {
+          "id": "d6-t11",
+          "text": "Mở két an toàn, kiểm tra ngăn kéo, tủ quần áo và nhà vệ sinh."
+        },
+        {
+          "id": "d6-t12",
+          "text": "Chụp ảnh tình trạng phòng nếu cần lưu hồ sơ."
+        },
+        {
+          "id": "d6-t13",
+          "text": "Trả chìa khóa hoặc thẻ phòng; hỏi hoàn tiền đặt cọc nếu có."
+        },
+        {
+          "id": "d6-t14",
+          "text": "Kiểm tra không bỏ quên đồ tại lễ tân hoặc nơi giữ hành lý."
+        },
+        {
+          "id": "d6-t15",
+          "text": "Đi bộ đến đúng BTS Victory Monument (N3)."
+        },
+        {
+          "id": "d6-t16",
+          "text": "Mua vé BTS và chọn tàu hướng Kheha."
+        },
+        {
+          "id": "d6-t17",
+          "text": "Xuống Phaya Thai (N2) sau một ga."
+        },
+        {
+          "id": "d6-t18",
+          "text": "Đi theo biển Airport Rail Link, mua vé riêng đến Suvarnabhumi."
+        },
+        {
+          "id": "d6-t19",
+          "text": "Lên Airport Rail Link hướng Suvarnabhumi, giữ vé hoặc token tới khi ra cổng."
+        },
+        {
+          "id": "d6-t20",
+          "text": "Xuống ga Suvarnabhumi và đi lên tầng Departures của nhà ga chính."
+        },
+        {
+          "id": "d6-t21",
+          "text": "Kiểm tra bảng điện tử để xác định đúng quầy Vietjet VJ804."
+        },
+        {
+          "id": "d6-t22",
+          "text": "Tìm đúng hàng Vietjet Air (VJ), không nhầm với Thai Vietjet (VZ)."
+        },
+        {
+          "id": "d6-t23",
+          "text": "Chuẩn bị hộ chiếu và mã đặt chỗ cho nhân viên."
+        },
+        {
+          "id": "d6-t24",
+          "text": "Nhận boarding pass, kiểm tra tên, số chuyến bay, giờ boarding và cửa ra máy bay."
+        },
+        {
+          "id": "d6-t25",
+          "text": "Kiểm tra lại hành lý xách tay không có chất lỏng hoặc vật dụng vượt giới hạn."
+        },
+        {
+          "id": "d6-t26",
+          "text": "Tìm đúng cổng lên máy bay và theo dõi thông báo thay đổi gate."
+        },
+        {
+          "id": "d6-t27",
+          "text": "Mua nước hoặc đồ ăn nhẹ nếu còn thời gian, không đi quá xa gate."
+        },
+        {
+          "id": "d6-t28",
+          "text": "Đi qua khu hải quan, khai báo hàng hóa nếu thuộc diện phải khai."
+        },
+        {
+          "id": "d6-t29",
+          "text": "Kiểm tra đủ hộ chiếu, ví, điện thoại, máy ảnh và vali trước khi rời sân bay."
+        },
+        {
+          "id": "d6-t30",
+          "text": "Đi bộ đến ga Victory Monument (N3), theo biển BTS Skytrain."
+        }
+      ],
+      "source": "# 🇹🇭 DAY 06 — Until Next Time, Ba.txt"
+    }
+  ],
+  "places": [
+    {
+      "day": 1,
+      "name": "College Haus",
+      "address": "438/17 Chawakun Alley, Thanon Phaya Thai, Ratchathewi, Bangkok 10400",
+      "category": "Hotel"
+    },
+    {
+      "day": 1,
+      "name": "Suvarnabhumi Airport",
+      "address": "Suvarnabhumi Airport Bangkok",
+      "category": "Airport"
+    },
+    {
+      "day": 1,
+      "name": "centralwOrld",
+      "address": "centralwOrld Bangkok",
+      "category": "Shopping"
+    },
+    {
+      "day": 1,
+      "name": "ThongSmith",
+      "address": "ThongSmith centralwOrld Bangkok",
+      "category": "Food"
+    },
+    {
+      "day": 1,
+      "name": "Big C Ratchadamri",
+      "address": "Big C Ratchadamri Bangkok",
+      "category": "Shopping"
+    },
+    {
+      "day": 2,
+      "name": "Baanwangdoem7",
+      "address": "203 Wang Doem Road, Wat Arun, Bangkok Yai, Bangkok 10600",
+      "category": "Booking"
+    },
+    {
+      "day": 2,
+      "name": "Wat Arun",
+      "address": "Wat Arun Bangkok",
+      "category": "Temple"
+    },
+    {
+      "day": 2,
+      "name": "Tha Tien Pier",
+      "address": "Tha Tien Pier Bangkok",
+      "category": "Pier"
+    },
+    {
+      "day": 2,
+      "name": "ICONSIAM",
+      "address": "ICONSIAM Bangkok",
+      "category": "Shopping"
+    },
+    {
+      "day": 3,
+      "name": "One Bangkok",
+      "address": "One Bangkok Thailand",
+      "category": "Shopping"
+    },
+    {
+      "day": 3,
+      "name": "Central Chidlom",
+      "address": "Central Chidlom Bangkok",
+      "category": "Shopping"
+    },
+    {
+      "day": 3,
+      "name": "bit.studio",
+      "address": "Slowcombo 126 Chulalongkorn 50 Bangkok",
+      "category": "Art"
+    },
+    {
+      "day": 3,
+      "name": "Siam Center",
+      "address": "Siam Center Bangkok",
+      "category": "Shopping"
+    },
+    {
+      "day": 3,
+      "name": "Siam Square",
+      "address": "Siam Square Bangkok",
+      "category": "Shopping"
+    },
+    {
+      "day": 4,
+      "name": "Giant Swing",
+      "address": "Giant Swing Bangkok",
+      "category": "Landmark"
+    },
+    {
+      "day": 4,
+      "name": "Nai Uan Yentafo",
+      "address": "41 Nava Alley Tanao Road Bangkok",
+      "category": "Food"
+    },
+    {
+      "day": 4,
+      "name": "K. Panich",
+      "address": "431 Tanao Road Bangkok",
+      "category": "Food"
+    },
+    {
+      "day": 4,
+      "name": "Talat Noi",
+      "address": "Talat Noi Bangkok",
+      "category": "Walk"
+    },
+    {
+      "day": 4,
+      "name": "Song Wat Road",
+      "address": "Song Wat Road Bangkok",
+      "category": "Walk"
+    },
+    {
+      "day": 4,
+      "name": "Yaowarat",
+      "address": "Yaowarat Bangkok",
+      "category": "Food"
+    },
+    {
+      "day": 5,
+      "name": "Chatuchak Weekend Market",
+      "address": "Chatuchak Weekend Market Bangkok",
+      "category": "Shopping"
+    },
+    {
+      "day": 5,
+      "name": "MOCA Bangkok",
+      "address": "MOCA Bangkok Museum of Contemporary Art",
+      "category": "Art"
+    },
+    {
+      "day": 5,
+      "name": "Chocolate Ville",
+      "address": "Chocolate Ville Bangkok",
+      "category": "Food"
+    },
+    {
+      "day": 6,
+      "name": "BTS Victory Monument",
+      "address": "BTS Victory Monument Bangkok",
+      "category": "Transit"
+    },
+    {
+      "day": 6,
+      "name": "BTS Phaya Thai",
+      "address": "BTS Phaya Thai Bangkok",
+      "category": "Transit"
+    },
+    {
+      "day": 6,
+      "name": "Suvarnabhumi Airport",
+      "address": "Suvarnabhumi Airport Bangkok",
+      "category": "Airport"
+    }
+  ],
+  "phrases": [
+    {
+      "en": "Excuse me, where is the Vietjet check-in counter?",
+      "vi": "Xin lỗi, quầy check-in Vietjet ở đâu ạ?",
+      "day": 1
+    },
+    {
+      "en": "We're flying to Bangkok.",
+      "vi": "Chúng tôi bay đến Bangkok.",
+      "day": 1
+    },
+    {
+      "en": "We have two checked bags.",
+      "vi": "Chúng tôi có hai kiện hành lý ký gửi.",
+      "day": 1
+    },
+    {
+      "en": "Where is our boarding gate?",
+      "vi": "Cửa lên máy bay của chúng tôi ở đâu?",
+      "day": 1
+    },
+    {
+      "en": "Where is immigration?",
+      "vi": "Khu nhập cảnh ở đâu?",
+      "day": 1
+    },
+    {
+      "en": "Where is baggage claim?",
+      "vi": "Khu nhận hành lý ở đâu?",
+      "day": 1
+    },
+    {
+      "en": "Which baggage carousel is for flight VJ801?",
+      "vi": "Hành lý chuyến VJ801 nằm ở băng chuyền nào?",
+      "day": 1
+    },
+    {
+      "en": "Where can I exchange money?",
+      "vi": "Tôi có thể đổi tiền ở đâu?",
+      "day": 1
+    },
+    {
+      "en": "I'd like to exchange Vietnamese dong for Thai baht.",
+      "vi": "Tôi muốn đổi tiền Việt sang baht Thái.",
+      "day": 1
+    },
+    {
+      "en": "What's today's exchange rate?",
+      "vi": "Tỷ giá hôm nay là bao nhiêu?",
+      "day": 1
+    },
+    {
+      "en": "How much will I receive?",
+      "vi": "Tôi sẽ nhận được bao nhiêu?",
+      "day": 1
+    },
+    {
+      "en": "Are there any additional fees?",
+      "vi": "Có phí phát sinh không?",
+      "day": 1
+    },
+    {
+      "en": "Could I have some smaller notes, please?",
+      "vi": "Cho tôi một ít tiền mệnh giá nhỏ được không?",
+      "day": 1
+    },
+    {
+      "en": "Could I have a receipt, please?",
+      "vi": "Cho tôi xin biên lai được không?",
+      "day": 1
+    },
+    {
+      "en": "Excuse me, where is the Airport Rail Link?",
+      "vi": "Xin lỗi, tàu Airport Rail Link ở đâu?",
+      "day": 1
+    },
+    {
+      "en": "Two tickets to Phaya Thai, please.",
+      "vi": "Cho chúng tôi hai vé đến Phaya Thai.",
+      "day": 1
+    },
+    {
+      "en": "How much is a one-way ticket?",
+      "vi": "Vé một chiều bao nhiêu tiền?",
+      "day": 1
+    },
+    {
+      "en": "Can I pay with cash?",
+      "vi": "Tôi có thể trả bằng tiền mặt không?",
+      "day": 1
+    },
+    {
+      "en": "Is this the train to Phaya Thai?",
+      "vi": "Đây có phải tàu đến Phaya Thai không?",
+      "day": 1
+    },
+    {
+      "en": "Where do we transfer to the BTS?",
+      "vi": "Chúng tôi chuyển sang BTS ở đâu?",
+      "day": 1
+    },
+    {
+      "en": "Which platform is for Victory Monument?",
+      "vi": "Sân ga nào đi Victory Monument?",
+      "day": 1
+    },
+    {
+      "en": "Is this train going towards Khu Khot?",
+      "vi": "Tàu này có đi hướng Khu Khot không?",
+      "day": 1
+    },
+    {
+      "en": "Which exit should we take?",
+      "vi": "Chúng tôi nên ra cửa nào?",
+      "day": 1
+    },
+    {
+      "en": "Hi, we have a reservation for two.",
+      "vi": "Xin chào, chúng tôi đã đặt phòng cho hai người.",
+      "day": 1
+    },
+    {
+      "en": "The reservation is under the name Gianna.",
+      "vi": "Phòng được đặt dưới tên Gianna.",
+      "day": 1
+    },
+    {
+      "en": "We'd like to check in, please.",
+      "vi": "Chúng tôi muốn nhận phòng.",
+      "day": 1
+    },
+    {
+      "en": "Is our room ready?",
+      "vi": "Phòng của chúng tôi đã sẵn sàng chưa?",
+      "day": 1
+    },
+    {
+      "en": "Could we leave our luggage here?",
+      "vi": "Chúng tôi có thể gửi hành lý ở đây không?",
+      "day": 1
+    },
+    {
+      "en": "What time is check-in?",
+      "vi": "Mấy giờ có thể nhận phòng?",
+      "day": 1
+    },
+    {
+      "en": "Is a deposit required?",
+      "vi": "Có cần đặt cọc không?",
+      "day": 1
+    },
+    {
+      "en": "Can we pay by card?",
+      "vi": "Chúng tôi có thể thanh toán bằng thẻ không?",
+      "day": 1
+    },
+    {
+      "en": "What's the Wi-Fi password?",
+      "vi": "Mật khẩu Wi-Fi là gì?",
+      "day": 1
+    },
+    {
+      "en": "Could we have two key cards, please?",
+      "vi": "Cho chúng tôi hai thẻ phòng được không?",
+      "day": 1
+    },
+    {
+      "en": "Where is the Halloween display?",
+      "vi": "Khu trang trí Halloween ở đâu?",
+      "day": 1
+    },
+    {
+      "en": "Is the Halloween event outside?",
+      "vi": "Sự kiện Halloween ở ngoài trời phải không?",
+      "day": 1
+    },
+    {
+      "en": "Is this area free to enter?",
+      "vi": "Khu này có vào miễn phí không?",
+      "day": 1
+    },
+    {
+      "en": "Could you take a picture of us, please?",
+      "vi": "Bạn có thể chụp giúp chúng tôi một tấm ảnh không?",
+      "day": 1
+    },
+    {
+      "en": "Could you take one more, please?",
+      "vi": "Bạn chụp thêm một tấm nữa được không?",
+      "day": 1
+    },
+    {
+      "en": "Could you take a vertical photo, please?",
+      "vi": "Bạn có thể chụp ảnh dọc không?",
+      "day": 1
+    },
+    {
+      "en": "Thank you so much!",
+      "vi": "Cảm ơn bạn nhiều nhé!",
+      "day": 1
+    },
+    {
+      "en": "A table for two, please.",
+      "vi": "Cho chúng tôi bàn hai người.",
+      "day": 1
+    },
+    {
+      "en": "Could we see the menu, please?",
+      "vi": "Cho chúng tôi xem thực đơn.",
+      "day": 1
+    },
+    {
+      "en": "What's your most popular dish?",
+      "vi": "Món nào được gọi nhiều nhất?",
+      "day": 1
+    },
+    {
+      "en": "We'd like two bowls of boat noodles.",
+      "vi": "Chúng tôi muốn hai tô mì thuyền.",
+      "day": 1
+    },
+    {
+      "en": "Does this contain pork?",
+      "vi": "Món này có thịt heo không?",
+      "day": 1
+    },
+    {
+      "en": "Does this contain shrimp?",
+      "vi": "Món này có tôm không?",
+      "day": 1
+    },
+    {
+      "en": "Less spicy, please.",
+      "vi": "Làm ít cay thôi nhé.",
+      "day": 1
+    },
+    {
+      "en": "Not spicy, please.",
+      "vi": "Không cay nhé.",
+      "day": 1
+    },
+    {
+      "en": "Could we have the bill, please?",
+      "vi": "Cho chúng tôi thanh toán.",
+      "day": 1
+    },
+    {
+      "en": "Excuse me, where can I find bottled water?",
+      "vi": "Nước đóng chai ở đâu?",
+      "day": 1
+    },
+    {
+      "en": "Do you have a smaller size?",
+      "vi": "Có loại nhỏ hơn không?",
+      "day": 1
+    },
+    {
+      "en": "How much is this?",
+      "vi": "Cái này bao nhiêu tiền?",
+      "day": 1
+    },
+    {
+      "en": "Is this on sale?",
+      "vi": "Món này đang giảm giá phải không?",
+      "day": 1
+    },
+    {
+      "en": "Can I pay with a credit card?",
+      "vi": "Tôi thanh toán bằng thẻ tín dụng được không?",
+      "day": 1
+    },
+    {
+      "en": "Do you accept QR payments?",
+      "vi": "Có nhận thanh toán QR không?",
+      "day": 1
+    },
+    {
+      "en": "Could I have a bag, please?",
+      "vi": "Cho tôi xin một chiếc túi được không?",
+      "day": 1
+    },
+    {
+      "en": "No bag, thank you.",
+      "vi": "Tôi không cần túi, cảm ơn.",
+      "day": 1
+    },
+    {
+      "en": "Where is the cashier?",
+      "vi": "Quầy thu ngân ở đâu?",
+      "day": 1
+    },
+    {
+      "en": "Excuse me, could you help us?",
+      "vi": "Xin lỗi, bạn giúp chúng tôi được không?",
+      "day": 1
+    },
+    {
+      "en": "I don't speak Thai.",
+      "vi": "Tôi không nói được tiếng Thái.",
+      "day": 1
+    },
+    {
+      "en": "Do you speak English?",
+      "vi": "Bạn có nói tiếng Anh không?",
+      "day": 1
+    },
+    {
+      "en": "Could you speak a little more slowly?",
+      "vi": "Bạn nói chậm hơn một chút được không?",
+      "day": 1
+    },
+    {
+      "en": "Could you say that again, please?",
+      "vi": "Bạn nhắc lại được không?",
+      "day": 1
+    },
+    {
+      "en": "Could you show me on the map?",
+      "vi": "Bạn chỉ trên bản đồ giúp tôi được không?",
+      "day": 1
+    },
+    {
+      "en": "I don't understand.",
+      "vi": "Tôi không hiểu.",
+      "day": 1
+    },
+    {
+      "en": "We're a little lost.",
+      "vi": "Chúng tôi hơi bị lạc.",
+      "day": 1
+    },
+    {
+      "en": "Could you type it on my phone?",
+      "vi": "Bạn gõ vào điện thoại tôi được không?",
+      "day": 1
+    },
+    {
+      "en": "Thank you for your help!",
+      "vi": "Cảm ơn vì đã giúp đỡ!",
+      "day": 1
+    }
+  ]
+}
